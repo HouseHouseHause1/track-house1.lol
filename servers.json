@@ -1,17 +1,82 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "L2X9",
+		"ip": "l2x9.me",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "2b2t",
+		"ip": "2b2t.org",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "xanarky",
+		"ip": "xanarky.org",
 		"type": "PC"
-	}
+	},
+	{
+		"name": "8b8t",
+		"ip": "8b8t.me",
+		"type": "PC"
+	},
+	{
+		"name": "6b6t",
+		"ip": "6b6t.org",
+		"type": "PC"
+	},
+	{
+		"name": "EtherAnarchy",
+		"ip": "etheranarchy.org",
+		"type": "PC"
+	},
+	{
+		"name": "xanarky.com",
+		"ip": "xanarky.com",
+		"type": "PC"
+	},
+	{
+		"name": "4b4t.me",
+		"ip": "4b4t.me",
+		"type": "PC"
+	},
+	{
+		"name": "SimpleAnarchy",
+		"ip": "simpleanarchy.org",
+		"type": "PC"
+	},
+	{
+		"name": "l2x9.org",
+		"ip": "l2x9.org",
+		"type": "PC"
+	},
+	{
+		"name": "l2x9.com",
+		"ip": "l2x9.com",
+		"type": "PC"
+	},
+	{
+		"name": "l2x9.dev",
+		"ip": "l2x9.dev",
+		"type": "PC"
+	},
+	{
+		"name": "Hisparquia.org",
+		"ip": "hisparquia.org",
+		"type": "PC"
+	},
+	{
+		"name": "l2x9.org",
+		"ip": "l2x9.org",
+		"type": "PC"
+	},
+	{
+		"name": "2l2c.org",
+		"ip": "2l2c.org",
+		"type": "PC"
+	},
+	{
+		"name": "2b2t ARG",
+		"ip": "2b2t.com.ar",
+		"type": "PC"
+	},
 ]
